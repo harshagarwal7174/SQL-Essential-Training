@@ -33,10 +33,8 @@ Welcome! This repository is a collection of well-explained, practical SQL querie
 ---
 
 **Author:** Harsh Agarwal  
-**LinkedIn:** [Insert Your LinkedIn URL Here]  
-**Certificate:** [Attach or link to your SQL certificate if available]  
-**License:** MIT (or your preferred license)
 
 ---
+
 
 Thank you for viewing my SQL learning repository! If you find it helpful or have suggestions, feel free to connect or leave feedback.
