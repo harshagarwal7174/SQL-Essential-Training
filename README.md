@@ -1,4 +1,4 @@
-# SQL Essential Training – Example Queries
+# SQL Essential Training
 
 Welcome! This repository is a collection of well-explained, practical SQL queries created as part of my SQL Essential Training journey. All queries are clearly commented and organized by topic for easy reference and learning.
 
@@ -38,3 +38,4 @@ Welcome! This repository is a collection of well-explained, practical SQL querie
 
 
 Thank you for viewing my SQL learning repository! If you find it helpful or have suggestions, feel free to connect or leave feedback.
+
